@@ -1,22 +1,21 @@
-================================================================================
+=
                     BATTLEFIELD 6 PORTAL - AI MAX SDK
-                         Pattern Library v1.3
-================================================================================
-
+                         Pattern Library v1.3 =
+============
 Welcome to the AI-optimized SDK for building Battlefield 6 Portal mods!
 
 This toolkit is designed to help AI coding assistants (Claude, Gemini, Cursor,
 Windsurf, etc.) build Portal mods correctly and efficiently.
 
-================================================================================
+=
 Installation
-================================================================================
+=
 
 Unpack into existing Portal SDK file.
 
-================================================================================
+=
 GETTING STARTED
-================================================================================
+=
 
 1. CHOOSE YOUR AI ASSISTANT
 
@@ -37,9 +36,9 @@ GETTING STARTED
    - "Create a zombie survival mode"
    - "Make a 1v1 duel arena"
 
-================================================================================
+=
 WHAT'S INCLUDED
-================================================================================
+=
 
 patterns/
   The heart of the SDK. 35+ verified code patterns covering:
@@ -85,9 +84,9 @@ dev/
 templates/
   Per-mod template structures
 
-================================================================================
+=
 CRITICAL RULES FOR AI ASSISTANTS
-================================================================================
+=
 
 1. BF2042 vs BF6 ISOLATION
    Battlefield 2042 was internally "Battlefield 6" - the code is similar but
@@ -104,18 +103,18 @@ CRITICAL RULES FOR AI ASSISTANTS
    Every mod.* call must exist in the SDK. AI models tend to invent
    plausible-sounding functions that don't exist. Always validate!
 
-================================================================================
+=
 DEBUGGING
-================================================================================
+=
 
 Portal logs are located at:
 C:\Users\{username}\AppData\Local\Temp\Battlefield 6\PortalLog.txt
 
 Use console.log() in your mod code to write debug messages there.
 
-================================================================================
+=
 SUPPORT & COMMUNITY
-================================================================================
+=
 
 This is a community-maintained SDK. For questions and support:
 - Check the patterns/ folder first - most answers are there
@@ -126,9 +125,9 @@ This version is a BETA. Please give feedback to help us improve.
 
 Credit: BFPortal.gg // Anthropic // Gregg Bayes-Brown
 
-================================================================================
+=
 VERSION INFO
-================================================================================
+=
 
 SDK Version: 1.1.3.0
 Pattern Library: v1.3 (Full SDK Coverage)
