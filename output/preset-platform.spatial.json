@@ -1,0 +1,5400 @@
+{
+  "Portal_Dynamic": [
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_0",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_1",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_2",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_3",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_4",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_5",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_6",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_7",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_8",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_9",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_10",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_11",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_12",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_13",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_14",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_15",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_16",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_17",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_18",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_19",
+      "position": {
+        "x": -80,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_20",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_21",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_22",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_23",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_24",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_25",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_26",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_27",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_28",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_29",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_30",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_31",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_32",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_33",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_34",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_35",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_36",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_37",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_38",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_39",
+      "position": {
+        "x": -76.463,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_40",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_41",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_42",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_43",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_44",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_45",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_46",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_47",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_48",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_49",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_50",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_51",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_52",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_53",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_54",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_55",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_56",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_57",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_58",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_59",
+      "position": {
+        "x": -72.926,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_60",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_61",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_62",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_63",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_64",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_65",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_66",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_67",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_68",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_69",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_70",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_71",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_72",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_73",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_74",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_75",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_76",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_77",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_78",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_79",
+      "position": {
+        "x": -69.389,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_80",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_81",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_82",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_83",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_84",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_85",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_86",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_87",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_88",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_89",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_90",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_91",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_92",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_93",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_94",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_95",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_96",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_97",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_98",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_99",
+      "position": {
+        "x": -65.852,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_100",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_101",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_102",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_103",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_104",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_105",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_106",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_107",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_108",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_109",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_110",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_111",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_112",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_113",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_114",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_115",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_116",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_117",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_118",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_119",
+      "position": {
+        "x": -62.315,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_120",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_121",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_122",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_123",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_124",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_125",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_126",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_127",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_128",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_129",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_130",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_131",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_132",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_133",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_134",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_135",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_136",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_137",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_138",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_139",
+      "position": {
+        "x": -58.778,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_140",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_141",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_142",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_143",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_144",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_145",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_146",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_147",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_148",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_149",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_150",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_151",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_152",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_153",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_154",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_155",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_156",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_157",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_158",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_159",
+      "position": {
+        "x": -55.241,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_160",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_161",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_162",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_163",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_164",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_165",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_166",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_167",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_168",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_169",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_170",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_171",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_172",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_173",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_174",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_175",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_176",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_177",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_178",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_179",
+      "position": {
+        "x": -51.704,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_180",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -50
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_181",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -44.9899
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_182",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -39.9798
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_183",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -34.9697
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_184",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -29.9596
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_185",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -24.949499999999997
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_186",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -19.9394
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_187",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -14.929299999999998
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_188",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -9.919199999999996
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_189",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": -4.909099999999995
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_190",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 0.1010000000000062
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_191",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 5.1111000000000075
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_192",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 10.121200000000002
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_193",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 15.13130000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_194",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 20.141400000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_195",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 25.151500000000013
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_196",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 30.161600000000007
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_197",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 35.1717
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_198",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 40.18180000000001
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "FiringRange_Floor_A",
+      "type": "FiringRange_Floor_A",
+      "id": "Node3D/Floor/FiringRange_Floor_A_199",
+      "position": {
+        "x": -48.167,
+        "y": 90,
+        "z": 45.191900000000004
+      },
+      "right": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "SpawnPoint_1_1",
+      "type": "SpawnPoint",
+      "id": "TEAM_1_HQ/SpawnPoint_1_1",
+      "position": {
+        "x": -67.0835,
+        "y": 90,
+        "z": -45
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "name": "SpawnPoint_1_2",
+      "type": "SpawnPoint",
+      "id": "TEAM_1_HQ/SpawnPoint_1_2",
+      "position": {
+        "x": -64.0835,
+        "y": 90,
+        "z": -45
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "name": "SpawnPoint_1_3",
+      "type": "SpawnPoint",
+      "id": "TEAM_1_HQ/SpawnPoint_1_3",
+      "position": {
+        "x": -61.0835,
+        "y": 90,
+        "z": -45
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      }
+    },
+    {
+      "name": "HQ_Team1",
+      "type": "PolygonVolume",
+      "id": "TEAM_1_HQ/HQ_Team1",
+      "height": 500,
+      "points": [
+        {
+          "x": -71.5835,
+          "y": 121,
+          "z": -52.5
+        },
+        {
+          "x": -56.5835,
+          "y": 121,
+          "z": -52.5
+        },
+        {
+          "x": -56.5835,
+          "y": 121,
+          "z": -37.5
+        },
+        {
+          "x": -71.5835,
+          "y": 121,
+          "z": -37.5
+        }
+      ]
+    },
+    {
+      "name": "TEAM_1_HQ",
+      "type": "HQ_PlayerSpawner",
+      "id": "TEAM_1_HQ",
+      "ObjId": 1,
+      "AltTeam": "TeamNeutral",
+      "VehicleSpawnersEnabled": true,
+      "InfantrySpawns": [
+        "TEAM_1_HQ/SpawnPoint_1_1",
+        "TEAM_1_HQ/SpawnPoint_1_2",
+        "TEAM_1_HQ/SpawnPoint_1_3"
+      ],
+      "HQArea": "TEAM_1_HQ/HQ_Team1",
+      "position": {
+        "x": -64.0835,
+        "y": 90,
+        "z": -45
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "linked": [
+        "HQArea",
+        "InfantrySpawns"
+      ]
+    },
+    {
+      "name": "SpawnPoint_2_1",
+      "type": "SpawnPoint",
+      "id": "TEAM_2_HQ/SpawnPoint_2_1",
+      "position": {
+        "x": -61.0835,
+        "y": 90,
+        "z": 40.191900000000004
+      },
+      "right": {
+        "x": -1,
+        "y": 0,
+        "z": -1.2246467991473532e-16
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1.2246467991473532e-16,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "name": "SpawnPoint_2_2",
+      "type": "SpawnPoint",
+      "id": "TEAM_2_HQ/SpawnPoint_2_2",
+      "position": {
+        "x": -64.0835,
+        "y": 90,
+        "z": 40.191900000000004
+      },
+      "right": {
+        "x": -1,
+        "y": 0,
+        "z": -1.2246467991473532e-16
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1.2246467991473532e-16,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "name": "SpawnPoint_2_3",
+      "type": "SpawnPoint",
+      "id": "TEAM_2_HQ/SpawnPoint_2_3",
+      "position": {
+        "x": -67.0835,
+        "y": 90,
+        "z": 40.191900000000004
+      },
+      "right": {
+        "x": -1,
+        "y": 0,
+        "z": -1.2246467991473532e-16
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 1.2246467991473532e-16,
+        "y": 0,
+        "z": -1
+      }
+    },
+    {
+      "name": "HQ_Team2",
+      "type": "PolygonVolume",
+      "id": "TEAM_2_HQ/HQ_Team2",
+      "height": 500,
+      "points": [
+        {
+          "x": -71.5835,
+          "y": 121,
+          "z": 32.691900000000004
+        },
+        {
+          "x": -56.5835,
+          "y": 121,
+          "z": 32.691900000000004
+        },
+        {
+          "x": -56.5835,
+          "y": 121,
+          "z": 47.691900000000004
+        },
+        {
+          "x": -71.5835,
+          "y": 121,
+          "z": 47.691900000000004
+        }
+      ]
+    },
+    {
+      "name": "TEAM_2_HQ",
+      "type": "HQ_PlayerSpawner",
+      "id": "TEAM_2_HQ",
+      "ObjId": 2,
+      "AltTeam": "TeamNeutral",
+      "VehicleSpawnersEnabled": true,
+      "InfantrySpawns": [
+        "TEAM_2_HQ/SpawnPoint_2_1",
+        "TEAM_2_HQ/SpawnPoint_2_2",
+        "TEAM_2_HQ/SpawnPoint_2_3"
+      ],
+      "HQArea": "TEAM_2_HQ/HQ_Team2",
+      "position": {
+        "x": -64.0835,
+        "y": 90,
+        "z": 40.191900000000004
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "linked": [
+        "HQArea",
+        "InfantrySpawns"
+      ],
+      "Team": "Team2"
+    },
+    {
+      "name": "CollisionPolygon3D",
+      "type": "PolygonVolume",
+      "id": "CombatArea/CollisionPolygon3D",
+      "height": 500,
+      "points": [
+        {
+          "x": -90,
+          "y": 121,
+          "z": -60
+        },
+        {
+          "x": -38.167,
+          "y": 121,
+          "z": -60
+        },
+        {
+          "x": -38.167,
+          "y": 121,
+          "z": 55.191900000000004
+        },
+        {
+          "x": -90,
+          "y": 121,
+          "z": 55.191900000000004
+        }
+      ]
+    },
+    {
+      "name": "CombatArea",
+      "type": "CombatArea",
+      "id": "CombatArea",
+      "CombatVolume": "CombatArea/CollisionPolygon3D",
+      "position": {
+        "x": -64.0835,
+        "y": 90,
+        "z": -2.404049999999998
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "linked": [
+        "CombatVolume"
+      ]
+    },
+    {
+      "name": "Sector",
+      "type": "Sector",
+      "id": "Sector",
+      "CapturePoints": [],
+      "SectorArea": "CombatArea/CollisionPolygon3D",
+      "position": {
+        "x": -64.0835,
+        "y": 90,
+        "z": -2.404049999999998
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      },
+      "front": {
+        "x": 0,
+        "y": 0,
+        "z": 1
+      },
+      "linked": [
+        "SectorArea",
+        "CapturePoints"
+      ]
+    },
+    {
+      "name": "DeployCam",
+      "type": "DeployCam",
+      "id": "DeployCam",
+      "position": {
+        "x": -64.0835,
+        "y": 167,
+        "z": -2.404049999999998
+      },
+      "right": {
+        "x": 1,
+        "y": 0,
+        "z": 0
+      },
+      "up": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "front": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      }
+    }
+  ]
+}
