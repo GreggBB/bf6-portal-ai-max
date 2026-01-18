@@ -1,0 +1,131 @@
+================================================================================
+                    GITHUB REPOSITORY DRAFT
+================================================================================
+
+REPOSITORY NAME: bf6-portal-AI-max
+
+SHORT DESCRIPTION:
+AI-optimized SDK for building Battlefield 6 Portal mods with Claude, Gemini, Cursor, and other AI assistants
+
+================================================================================
+README.md CONTENT (MARKDOWN)
+================================================================================
+
+# BF6 Portal AI-MAX SDK
+
+> **AI-optimized toolkit for building Battlefield 6 Portal mods**
+
+Build Portal mods faster using AI coding assistants like Claude, Gemini, Cursor, Windsurf, and others.
+
+## Features
+
+- **35+ Verified Patterns** - Tested code patterns covering the entire Portal SDK
+- **Multi-AI Support** - Instructions for Claude, Gemini, and generic AI agents
+- **Process Workflows** - Step-by-step guides for discovery, planning, building, and debugging
+- **Community Utilities** - 11 helper modules (Events, Timers, Logger, SolidUI, Raycast, etc.)
+- **Spatial Generator** - Programmatic tools for creating map layouts
+
+## Quick Start
+
+1. Clone this repository
+2. Open in your AI coding environment
+3. Tell your AI: *"Read CLAUDE.md to understand how to build Portal mods"*
+4. Start building: *"Create a gun game mod"*
+
+## AI Instruction Files
+
+| File | AI Platform |
+|------|-------------|
+| `CLAUDE.md` | Claude (Claude Code, Claude.ai) |
+| `GEMINI.md` | Google Gemini |
+| `AGENTS.md` | Cursor, Windsurf, other AI assistants |
+
+## What's Included
+
+```
+bf6-portal-AI-max/
+├── patterns/              # 35+ verified code patterns
+├── processes/             # Workflow guides
+├── bf6-portal-utils-master/ # Community utility library
+├── spatial-generator/     # Map generation tools
+├── experimental/          # Undocumented features
+├── agents/                # Agent architecture
+├── templates/             # Mod templates
+└── dev/                   # Reference documentation
+```
+
+## Pattern Categories
+
+- **Core** - Event hooks, state management, object equality
+- **Player** - Spawning, equipment, input, camera
+- **Gameplay** - Economy, vehicles, capture points, sectors
+- **UI** - Widgets, notifications
+- **Audio** - Music, SFX, voice-over
+- **Spatial** - Area triggers, world icons, VFX
+- **AI** - 18 bot behavior functions
+
+## Critical Rules
+
+### 1. BF2042 vs BF6 Isolation
+BF2042 was internally "Battlefield 6" - code looks similar but is NOT compatible.
+**Only use patterns from this SDK, never web-sourced BF2042 examples.**
+
+### 2. Object Comparison
+SDK objects require `GetObjId()` for comparison:
+
+```typescript
+// WRONG
+if (team1 === team2) { }
+
+// CORRECT
+if (mod.GetObjId(team1) === mod.GetObjId(team2)) { }
+```
+
+### 3. Function Validation
+AI models may invent plausible-sounding functions that don't exist.
+Always validate `mod.*` calls against the pattern library.
+
+## Debugging
+
+Portal logs: `C:\Users\{username}\AppData\Local\Temp\Battlefield 6\PortalLog.txt`
+
+## Version
+
+- SDK Version: 1.1.3.0
+- Pattern Library: v1.3
+
+## License
+
+MIT
+
+## Contributing
+
+Contributions welcome! Please ensure all patterns are tested before submitting.
+
+================================================================================
+TOPICS/TAGS (for GitHub)
+================================================================================
+
+battlefield
+battlefield-6
+portal
+modding
+sdk
+ai
+claude
+gemini
+typescript
+game-modding
+
+================================================================================
+GITHUB SETTINGS SUGGESTIONS
+================================================================================
+
+- Enable Issues: Yes
+- Enable Wiki: Optional (patterns serve as documentation)
+- Enable Discussions: Yes (for community Q&A)
+- Default branch: main
+- Add .gitignore for: Node, TypeScript
+- License: MIT
+
+================================================================================
